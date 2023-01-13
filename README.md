@@ -43,9 +43,6 @@ The game also has a multiplayer component, where players can join together to de
 
 ### Team size: 8-10 people
 
-### Final note:
-Memory Lane is a game that combines adventure, puzzle-solving, and horror elements to create a unique and memorable experience for the players. With a strong narrative, challenging gameplay, and a multiplayer component, it's a game that will be enjoyed by a wide audience.
-
 ### Monetization:
 The game will be sold at a one-time cost for full access to all levels and features. Additional levels or DLCs may be offered for purchase in the future. In-game purchases such as additional weapons or cosmetic items may also be offered.
 
