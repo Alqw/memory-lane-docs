@@ -8,6 +8,9 @@
 
 ### Title: Memory Lane
 
+### Short Overview
+The game is set in a dreamlike, surreal environment where the player navigates through different levels representing their memories, solving puzzles and overcoming obstacles that are blocking their path. The monster that erases memories takes on various forms in each level, becoming increasingly difficult to defeat as the player progresses. The game incorporates elements of psychological horror, as the player's memories are twisted and distorted by the monster's presence, creating a sense of unease and uncertainty. The game has a strong narrative component, with the player's past experiences being revealed through cutscenes and dialogues. As the player defeats the monster in each level, they gain insight into their own past and how it has shaped their present. The game also has a multiplayer component, where players can join together to defeat the memory-erasing monster, share their own memories with each other and work together to overcome the obstacles blocking their path.
+
 ### Game Concept:
 The game is a first-person adventure game set in a dreamlike, surreal environment where the player navigates through different levels representing their memories. The player must solve puzzles and overcome obstacles that are blocking their path to retrieve their lost memories. The monster that erases memories takes on various forms in each level, becoming increasingly difficult to defeat as the player progresses.
 
