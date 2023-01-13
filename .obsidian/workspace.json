@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "1b94d65375f65559",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfd4972a09f13c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad19cc09e47efd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcf37cb5a1529f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cdc7deaa658ecf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cc38f2889bb74fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6308cface4157dd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0154c40591318d0c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28f7596dd3f195ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa065ee67149a04a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26b00be614bde5aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Technical Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc49e56066e6435f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Technical Design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b21c9ec45a3e3cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dff19fd7ffc54a9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Technical Design.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aad19cc09e47efd8",
+  "lastOpenFiles": [
+    "Story and Narrative.md",
+    "Character Design.md",
+    "Game Mechanics.md",
+    "README.md",
+    "Technical Design.md"
+  ]
+}
