@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Character Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Character Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Character Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Character Design.md"
               }
             }
           }
@@ -138,10 +138,10 @@
   },
   "active": "aad19cc09e47efd8",
   "lastOpenFiles": [
-    "Character Design.md",
-    "Technical Design.md",
-    "Story and Narrative.md",
     "Game Mechanics.md",
-    "README.md"
+    "README.md",
+    "Story and Narrative.md",
+    "Technical Design.md",
+    "Character Design.md"
   ]
 }
